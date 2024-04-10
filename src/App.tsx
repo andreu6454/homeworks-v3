@@ -12,7 +12,8 @@ function App() {
             <HW2/>
             <hr/>
             <HW3/>
-            {/*<HW4 />*/}
+            <hr/>
+            <HW4/>
         </div>
     );
 }
