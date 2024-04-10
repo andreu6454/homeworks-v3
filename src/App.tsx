@@ -10,7 +10,8 @@ function App() {
             <HW1/>
             <hr/>
             <HW2/>
-            {/*<HW3 />*/}
+            <hr/>
+            <HW3/>
             {/*<HW4 />*/}
         </div>
     );
